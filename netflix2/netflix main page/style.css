@@ -1,0 +1,29 @@
+.full_body{
+    background-color: black;
+}
+
+.header{
+    display: inline-block;
+}
+.option{
+    float: right;
+    margin: 18px;
+}
+
+.header-logo{
+    width: 93px;
+}
+.title1,.title2{
+    color: white;
+}
+.loganvideo,.Airrack,.mrbeast{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+
+    /* overflow: -moz-hidden-scrollable; */
+}
+
+.frame{
+    border-color: black;
+}

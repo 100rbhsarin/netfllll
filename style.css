@@ -1,0 +1,63 @@
+.full_body{
+    background-image: url(./singnin.jpg);
+}
+.header_logo_pic{
+    width: 93px;
+
+}
+.title{
+color: white;
+}
+.signinbar{
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-center;
+    
+   
+   
+}
+
+.sign_in_menu{
+     height: 400px;
+width: 350px;
+border-color: black;
+  background-color: rgba(0, 0, 22,0.8);
+   padding-top: 50px;
+   margin-top: 120px;
+ } 
+.email{
+    color: black;
+    height: 40px;
+    width: 90%;
+    
+}
+.password{
+    color: black;
+    width: 90%;
+    height: 40px;
+}
+
+.signinclick{
+    color: white;
+    background-color: red;
+    width: 90%;
+    height: 40px;
+    
+}
+.footer{
+    color: white;
+   
+}
+.footer p{
+     display: inline-block;
+}
+.rememeber{
+    text-align: left;
+    width: 70%;
+}
+.need{
+    text-align: right;
+    width: 20%;
+}
